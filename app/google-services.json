@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "303873889393",
+    "project_id": "uplifted-road-368323",
+    "storage_bucket": "uplifted-road-368323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303873889393:android:a2ec5076298219870db7d0",
+        "android_client_info": {
+          "package_name": "com.example.dosk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303873889393-tg6u36bp0c891q7hc20rark1snshrjft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyrtzhYU3f-M-xi0w7Rv6TWmq_vdOavrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303873889393-tg6u36bp0c891q7hc20rark1snshrjft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
